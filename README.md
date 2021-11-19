@@ -1,3 +1,7 @@
+![StarWarsScreenShot](https://user-images.githubusercontent.com/58197108/142560057-8a02ace5-bffe-4fef-a1f4-be3c2634b0f0.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
